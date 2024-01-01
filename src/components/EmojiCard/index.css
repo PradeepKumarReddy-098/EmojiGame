@@ -1,0 +1,15 @@
+.img-container {
+  background-color: #ffffff33;
+  border-radius: 12px;
+  margin: 8px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.emoji-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}

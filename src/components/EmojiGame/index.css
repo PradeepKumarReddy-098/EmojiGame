@@ -1,0 +1,19 @@
+.background-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100vh;
+}
+.unorder-list {
+  width: 500px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.emoji-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+  margin-top: 10px;
+}

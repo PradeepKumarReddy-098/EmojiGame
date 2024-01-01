@@ -1,0 +1,31 @@
+.win-lose-container {
+  background-color: #ffffff33;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  border-radius: 15px;
+}
+.status-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 12px;
+}
+.play-button {
+  background-color: #ffce27;
+  border: none;
+  border-radius: 18px;
+  color: #000000;
+  padding: 10px;
+}
+p {
+  font-weight: 600;
+}
+.score-status {
+  color: #6a59ff;
+  font-weight: 600;
+}

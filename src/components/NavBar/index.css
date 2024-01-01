@@ -1,0 +1,23 @@
+.logo-container {
+  display: flex;
+  color: #ffffff;
+}
+.score-container {
+  display: flex;
+  color: #ffffff;
+}
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff33;
+  justify-content: space-around;
+  align-items: center;
+}
+.score {
+  font-weight: 600;
+  margin-right: 15px;
+}
+.top-score {
+  font-weight: 600;
+  margin-right: 15px;
+}
